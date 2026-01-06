@@ -1,2 +1,3 @@
 ![Uploading IMG_20241222_120610.jpg…]()
 # PATEL-KRISH
+JAVA C++ DBMS PYTHON 
